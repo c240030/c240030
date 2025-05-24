@@ -1,36 +1,51 @@
-<h1 align="center">Hi 👋 I'm Julian</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1350&pause=750&color=F7F7F7&cursorColor=FF0000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Julian;An Aspiring+Red+Teamer" alt="Typing SVG" />
+  </a>
+</h1>
 
-
-## 🧠 About Me
-
-I'm a Year 1 Computer Science student at **Nanyang Technological University (NTU), Singapore**.  
-Currently exploring **penetration testing**, **red teaming**, and all things **cybersecurity**. I'm also intrigued by the intersection of **blockchain technology** and **digital ethics**, and how they shape secure, decentralized systems.
-
----
-
-## 🔍 What I'm Up To
-
-- 🛠 Studying systems, networks, and reverse engineering fundamentals
-- 🧪 Practicing on platforms like TryHackMe, Hack The Box, and PicoCTF
-- 🧬 Exploring smart contract vulnerabilities and testing system in blockchain
-- 🧠 Sharpening problem-solving skills through daily LeetCode practice
-<!--- 🧠 Learning tools like `nmap`, `burpsuite`, and `Wireshark`--->
-
-I’m building my journey toward becoming a **penetration tester and red teamer**, and love contributing to security-focused communities.  
-In my free time, I share insights and notes on what I learn.
+<p align="center">
+  A Computer Science undergraduate and scholar at <strong>Nanyang Technological University (NTU), Singapore</strong>, with a strong focus on <strong>penetration testing</strong>, <strong>red teaming</strong>, and the evolving field of <strong>cybersecurity</strong>. I'm also intrigued by the intersection of <strong>blockchain technology</strong> and <strong>digital ethics</strong> in decentralized systems.
+</p>
 
 ---
 
-## 🌐 Connect With Me 
+<div align="center">
+  <a href="https://tryhackme.com/p/xlamwis" target="_blank"> <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3912436" alt="TryHackMe Profile"/>
+  </a>
+  &nbsp;&nbsp;&nbsp; <a href="https://app.hackthebox.com/profile/xlamwis" target="_blank"> <img src="https://www.hackthebox.eu/badge/image/xlamwis" alt="Hack The Box Profile" width="300"/>
+  </a>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/nguyen-tran-thanh-lam/)
+---
+
+## 🚀 My Focus & Learning
+
+- 🛠️ Mastering fundamentals in systems, networks, and reverse engineering.
+- 🧪 Actively practicing on platforms like TryHackMe, Hack The Box, and PicoCTF.
+- 🧬 Exploring smart contract vulnerabilities and blockchain security.
+- 🧠 Honing problem-solving skills with daily LeetCode challenges.
+<p align="center">
+  <i>Building my path towards <b>penetration testing and red teaming</b>, and keen on contributing to security communities.</i>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nguyen-tran-thanh-lam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  </div>
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages:
+### 🌟 Proficient / Primary Language:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
+### 📚 Familiar With / Have Explored:
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
@@ -41,22 +56,4 @@ In my free time, I share insights and notes on what I learn.
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge)
 ![Verilog](https://img.shields.io/badge/-Verilog-FF6600?style=for-the-badge)
 
-
-<!---### Cybersecurity Tools:
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FE7A16?logo=burpsuite&logoColor=white&style=for-the-badge)
-![Nmap](https://img.shields.io/badge/-Nmap-4F4F4F?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/-Metasploit-000000?logo=metasploit&logoColor=white&style=for-the-badge)
-
-### Platforms:
-![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge)
-![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-
 ---
---->
-
-<!---
-c240030/c240030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

@@ -11,10 +11,11 @@
 ---
 
 <div align="center">
-  <a href="https://tryhackme.com/p/xlamwis" target="_blank"> <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3912436" alt="TryHackMe Profile"/>
+  <a href="https://tryhackme.com/p/xlamwis" target="_blank"> <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3912436" alt="TryHackMe Profile Badge"/>
   </a>
-  &nbsp;&nbsp;&nbsp; <a href="https://app.hackthebox.com/profile/xlamwis" target="_blank"> <img src="https://www.hackthebox.eu/badge/image/xlamwis" alt="Hack The Box Profile" width="300"/>
+  &nbsp;&nbsp;&nbsp; <a href="https://app.hackthebox.com/profile/xlamwis" target="_blank"> <img src="https://www.hackthebox.eu/badge/image/xlamwis" alt="Hack The Box Profile Badge" width="300"/>
   </a>
+  <br/> <img src="https://komarev.com/ghpvc/?username=c240030&color=blue" alt="Profile Views"/>
 </div>
 
 ---

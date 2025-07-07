@@ -141,9 +141,9 @@
 ## 🎯 Current Goals
 
 - 🏆 **Complete OSCP Certification Path**
-- 🔍 **Master Advanced Penetration Testing**
+- 🔍 **Master Penetration Testing**
 - 🌐 **Contribute to Open Source Security Tools**
-- 📚 **Build Cybersecurity Portfolio Projects**
+- 📚 **Build My Cybersecurity Portfolio**
 - 🤝 **Engage with Security Communities**
 
 ---
@@ -175,15 +175,15 @@ class CyberSecurityEnthusiast:
         self.role = "Aspiring Red Teamer"
         self.location = "Singapore 🇸🇬"
         self.education = "NTU Computer Science"
-        self.interests = ["Penetration Testing", "Blockchain Security", "Reverse Engineering"]
+        self.interests = ["Penetration Testing", "Cryptography", "Reverse Engineering"]
         self.current_challenge = "Daily security practice + LeetCode"
     
     def get_daily_routine(self):
         return [
-            "☕ Morning coffee with security news",
+            "☕ Morning coffee with technology news",
             "🎓 University coursework",
             "🔧 Hands-on security labs",
-            "💻 Coding challenges",
+            "💻 Coding practices",
             "📚 Reading security research"
         ]
     

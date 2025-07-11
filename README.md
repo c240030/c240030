@@ -43,14 +43,6 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c240030&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=FF6B6B&border_color=FF6B6B&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c240030&theme=dark&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B6B&sideLabels=FF6B6B&dates=FFFFFF" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=c240030&theme=redical&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
